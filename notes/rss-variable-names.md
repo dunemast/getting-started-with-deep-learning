@@ -1,6 +1,6 @@
 # How to name your variables
 
-Websites and blogs:
+Websites and Blogs:
 
 - [Useful Tips for Naming Your Variables](https://betterprogramming.pub/useful-tips-for-naming-your-variables-8139cc8d44b5)
 - [Data Scientists, Your Variable Names Are a Mess. Clean Up Your Code](https://builtin.com/data-science/variable-names)

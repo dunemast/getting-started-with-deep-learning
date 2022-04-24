@@ -13,9 +13,9 @@ Improving architecture
 
 ### Architectures
 
-- [Inception Architecture](blogs/inception.md)
+- [Inception Architecture](notes/inception.md)
 
-- [Common CNN Architectures](blogs/common_cnns.md)
+- [Common CNN Architectures](notes/common_cnns.md)
 
 ### Sample Deep learning Models Examples
 
