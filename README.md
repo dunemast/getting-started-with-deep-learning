@@ -33,11 +33,11 @@ Imperical and Deep learning algorithms for time series analysis and forecasting.
 
 **Non Parametric methods**, this approach explicitly estimate the covariance or the spectrum of the process without assuming that the process has any particular structure.
 
-## Models
+### Sample Time Series Models
 
 - `Naive Forecast`: [julia-code/naive-forcasting.jl](julia-code/naive-forcasting.jl)
 
-## Comparision
+### Time Series Comparision
 
 - [`Dynamic time wraping (DTW)`](notes/dynamic-time-wraping.md)
 
